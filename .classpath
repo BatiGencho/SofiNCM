@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources/lib"/>
+	<classpathentry kind="src" path="src/main/resources/images"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/itext-pdfa-5.5.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/itext-pdfa-5.5.8-sources.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/itext-pdfa-5.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/itext-xtra-5.5.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/itext-xtra-5.5.8-sources.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/itext-xtra-5.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/itextpdf-5.5.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/itextpdf-5.5.8-sources.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/itextpdf-5.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/xmlworker-5.5.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/xmlworker-5.5.8-sources.jar"/>
+	<classpathentry kind="lib" path="lib/itext-5.5.8/xmlworker-5.5.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/libs">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="SofiNCM/src/main/resources/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
